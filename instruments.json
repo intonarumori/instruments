@@ -1,0 +1,27 @@
+[
+	{
+		"manufacturer": "Moog",
+		"model": "Voyager",
+		"file": "moog_voyager.json"
+	},
+	{
+		"manufacturer": "OXI Instruments",
+		"model": "Coral",
+		"file": "oxi_coral.json"
+	},
+	{
+		"manufacturer": "Pioneer",
+		"model": "Toraiz AS-1",
+		"file": "pioneer_toraiz_as-1.json"
+	},
+	{
+		"manufacturer": "Roland",
+		"model": "Juno-60 Minerva",
+		"file": "roland_juno60_minerva.json"
+	},
+	{
+		"manufacturer": "Roland",
+		"model": "MKS-50",
+		"file": "roland_mks-50.json"
+	}
+]

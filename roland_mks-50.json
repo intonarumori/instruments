@@ -1,0 +1,443 @@
+{
+  "id": "roland_mks50",
+  "name": "Roland MKS-50",
+  "manufacturer": "Roland",
+  "abbr": "MKS-50",
+  "parameters": [
+    {
+      "name": "DCO Pulse",
+      "abbr": "Plse",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 3,
+      "type": "script"
+    },
+    {
+      "name": "DCO Saw",
+      "abbr": "Saw",
+      "minimum": 0,
+      "maximum": 5,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 4,
+      "type": "script"
+    },
+    {
+      "name": "DCO Sub",
+      "abbr": "Sub",
+      "minimum": 0,
+      "maximum": 5,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 5,
+      "type": "script"
+    },
+    {
+      "name": "DCO Sub Level",
+      "abbr": "SLvl",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 7,
+      "type": "script"
+    },
+
+    {
+      "name": "DCO Range",
+      "abbr": "Rng",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 6,
+      "type": "script"
+    },
+    {
+      "name": "DCO Env Mode",
+      "abbr": "EnvM",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 0,
+      "type": "script"
+    },
+    {
+      "name": "DCO PW Rate",
+      "abbr": "PWRt",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 15,
+      "type": "script"
+    },
+    {
+      "name": "Noise",
+      "abbr": "Noiz",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 8,
+      "type": "script"
+    },
+
+    {
+      "name": "DCO LFO Depth",
+      "abbr": "LFO",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 11,
+      "type": "script"
+    },
+    {
+      "name": "DCO ENV Mod Depth",
+      "abbr": "ENV",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 12,
+      "type": "script"
+    },
+    {
+      "name": "DCO PW Mod Depth",
+      "abbr": "PWM",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 14,
+      "type": "script"
+    },
+    {
+      "name": "DCO After Depth",
+      "abbr": "AFT",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 13,
+      "type": "script"
+    },
+    {
+      "name": "LFO Delay Time",
+      "abbr": "LFDl",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 25,
+      "type": "script"
+    },
+    {
+      "name": "LFO Rate",
+      "abbr": "LFRt",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 24,
+      "type": "script"
+    },
+    {
+      "name": "Chorus On/Off",
+      "abbr": "ChOn",
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 10,
+      "type": "script"
+    },
+    {
+      "name": "Chorus Rate",
+      "abbr": "ChRt",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 30,
+      "nr1": 0,
+      "nr2": 34,
+      "type": "script"
+    },
+    {
+      "name": "ENV T1",
+      "abbr": "T1",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 26,
+      "type": "script"
+    },
+    {
+      "name": "ENV T2",
+      "abbr": "T2",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 28,
+      "type": "script"
+    },
+    {
+      "name": "ENV T3",
+      "abbr": "T3",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 30,
+      "type": "script"
+    },
+    {
+      "name": "ENV T4",
+      "abbr": "T4",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 32,
+      "type": "script"
+    },
+
+    {
+      "name": "ENV L1",
+      "abbr": "L1",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 27,
+      "type": "script"
+    },
+    {
+      "name": "ENV L2",
+      "abbr": "L2",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 29,
+      "type": "script"
+    },
+    {
+      "name": "ENV L3",
+      "abbr": "L3",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 31,
+      "type": "script"
+    },
+    {
+      "name": "ENV Key",
+      "abbr": "Key",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 33,
+      "type": "script"
+    },
+    {
+      "name": "LP Cutoff",
+      "abbr": "Cut",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 16,
+      "type": "script"
+    },
+    {
+      "name": "LP Resonance",
+      "abbr": "Res",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 17,
+      "type": "script"
+    },
+    {
+      "name": "Highpass",
+      "abbr": "HP",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 9,
+      "type": "script"
+    },
+    {
+      "name": "ENV Mode",
+      "abbr": "E.Md",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 1,
+      "type": "script"
+    },
+    {
+      "name": "VCF LFO Mod Depth",
+      "abbr": "LFO",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 18,
+      "type": "script"
+    },
+    {
+      "name": "VCF ENV Mod Depth",
+      "abbr": "ENV",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 19,
+      "type": "script"
+    },
+    {
+      "name": "VCF Key Follow",
+      "abbr": "Key",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 20,
+      "type": "script"
+    },
+    {
+      "name": "VCF After Depth",
+      "abbr": "AFT",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 21,
+      "type": "script"
+    },
+
+    {
+      "name": "Patch Key Shift",
+      "abbr": "KySh",
+      "minimum": 0,
+      "maximum": 12,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 6,
+      "type": "script"
+    },
+    {
+      "name": "Patch Detune",
+      "abbr": "Det",
+      "minimum": 0,
+      "maximum": 12,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 8,
+      "type": "script"
+    },
+    {
+      "name": "Patch Volume",
+      "abbr": "Vol",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 127,
+      "nr1": 1,
+      "nr2": 7,
+      "type": "script"
+    },
+    {
+      "name": "VCA Level",
+      "abbr": "Lvl",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 23,
+      "type": "script"
+    },
+    {
+      "name": "ENV Mode",
+      "abbr": "E.Md",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 2,
+      "type": "script"
+    },
+    {
+      "name": "Key Assign",
+      "abbr": "KeyA",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 12,
+      "type": "script"
+    },
+    {
+      "name": "Bend Range",
+      "abbr": "Bnd",
+      "minimum": 0,
+      "maximum": 12,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 35,
+      "type": "script"
+    },
+
+    {
+      "name": "Portamento",
+      "abbr": "Port",
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 4,
+      "type": "script"
+    },
+    {
+      "name": "Portamento Time",
+      "abbr": "Time",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 3,
+      "type": "script"
+    },
+    {
+      "name": "Chord Memory",
+      "abbr": "Chrd",
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0,
+      "nr1": 1,
+      "nr2": 11,
+      "type": "script"
+    },
+    {
+      "name": "VCA After Depth",
+      "abbr": "AFT",
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0,
+      "nr1": 0,
+      "nr2": 23,
+      "type": "script"
+    }
+  ]
+}

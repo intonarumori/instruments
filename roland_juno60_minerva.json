@@ -1,0 +1,332 @@
+{
+  "id": "roland_juno60_minerva",
+  "name": "Roland Juno-60 Minerva",
+  "manufacturer": "Roland",
+  "abbr": "JUNO-60",
+  "parameters": [
+    {
+      "name": "Transpose",
+      "abbr": "Trns",
+      "type": "cc",
+      "nr1": 35,
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 1
+    },
+    {
+      "name": "DCO Waveform",
+      "abbr": "DWfm",
+      "type": "cc",
+      "nr1": 33,
+      "minimum": 0,
+      "maximum": 7,
+      "default_value": 0
+    },
+    {
+      "name": "DCO LFO",
+      "abbr": "DLFO",
+      "type": "cc",
+      "nr1": 30,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "PWM",
+      "abbr": "PWM",
+      "type": "cc",
+      "nr1": 28,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "PWM Mode",
+      "abbr": "PWMd",
+      "type": "cc",
+      "nr1": 37,
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0
+    },
+    {
+      "name": "Sub Level",
+      "abbr": "SLev",
+      "type": "cc",
+      "nr1": 26,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Noise Level",
+      "abbr": "NLev",
+      "type": "cc",
+      "nr1": 25,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "LFO Rate",
+      "abbr": "LFRt",
+      "type": "cc",
+      "nr1": 29,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "LFO Delay",
+      "abbr": "LFDl",
+      "type": "cc",
+      "nr1": 31,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "LFO Trigger",
+      "abbr": "LTrg",
+      "type": "cc",
+      "nr1": 34,
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 1
+    },
+    {
+      "name": "VCF Frequency",
+      "abbr": "FFre",
+      "type": "cc",
+      "nr1": 24,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "VCF Resonance",
+      "abbr": "Reso",
+      "type": "cc",
+      "nr1": 27,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "HPF",
+      "abbr": "HPF",
+      "type": "cc",
+      "nr1": 38,
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0
+    },
+    {
+      "name": "VCF Envelope",
+      "abbr": "FEnv",
+      "type": "cc",
+      "nr1": 16,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "VCF Envelope Polarity",
+      "abbr": "FPol",
+      "type": "cc",
+      "nr1": 36,
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 0
+    },
+    {
+      "name": "VCF LFO",
+      "abbr": "FLFO",
+      "type": "cc",
+      "nr1": 17,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "VCF Keyboard",
+      "abbr": "FKbd",
+      "type": "cc",
+      "nr1": 18,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Attack",
+      "abbr": "Attk",
+      "type": "cc",
+      "nr1": 20,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Release",
+      "abbr": "Rels",
+      "type": "cc",
+      "nr1": 21,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 30
+    },
+    {
+      "name": "Decay",
+      "abbr": "Dcy",
+      "type": "cc",
+      "nr1": 22,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 30
+    },
+    {
+      "name": "Sustain",
+      "abbr": "Sust",
+      "type": "cc",
+      "nr1": 23,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 64
+    },
+    {
+      "name": "Filter Envelope Polarity",
+      "abbr": "FPol",
+      "type": "cc",
+      "nr1": 44,
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 0
+    },
+    {
+      "name": "Filter Trigger Mode",
+      "abbr": "FTMd",
+      "type": "cc",
+      "nr1": 52,
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 1
+    },
+    {
+      "name": "Filter Envelope Depth",
+      "abbr": "FDpt",
+      "type": "cc",
+      "nr1": 43,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Filter Envelope Attack",
+      "abbr": "FAtt",
+      "type": "cc",
+      "nr1": 40,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Filter Envelope Decay",
+      "abbr": "FDcy",
+      "type": "cc",
+      "nr1": 41,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 30
+    },
+    {
+      "name": "Filter Envelope Sustain",
+      "abbr": "FSus",
+      "type": "cc",
+      "nr1": 42,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 64
+    },
+    {
+      "name": "LFO2 Speed",
+      "abbr": "L2Sp",
+      "type": "cc",
+      "nr1": 45,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 64
+    },
+    {
+      "name": "LFO2 Depth",
+      "abbr": "L2Dp",
+      "type": "cc",
+      "nr1": 46,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "LFO2 Waveform",
+      "abbr": "L2Wf",
+      "type": "cc",
+      "nr1": 47,
+      "minimum": 0,
+      "maximum": 4,
+      "default_value": 0
+    },
+    {
+      "name": "LFO2 Sync",
+      "abbr": "L2Sy",
+      "type": "cc",
+      "nr1": 48,
+      "minimum": 0,
+      "maximum": 1,
+      "default_value": 0
+    },
+    {
+      "name": "LFO2 Assign",
+      "abbr": "L2As",
+      "type": "cc",
+      "nr1": 49,
+      "minimum": 0,
+      "maximum": 7,
+      "default_value": 0
+    },
+    {
+      "name": "Arpeggiator Midi Sync",
+      "abbr": "AMSy",
+      "type": "cc",
+      "nr1": 50,
+      "minimum": 1,
+      "maximum": 7,
+      "default_value": 6
+    },
+    {
+      "name": "Velocity Assign",
+      "abbr": "VAsn",
+      "type": "cc",
+      "nr1": 51,
+      "minimum": 0,
+      "maximum": 2,
+      "default_value": 0
+    },
+    {
+      "name": "Level",
+      "abbr": "Levl",
+      "type": "cc",
+      "nr1": 19,
+      "minimum": 0,
+      "maximum": 127,
+      "default_value": 0
+    },
+    {
+      "name": "Chorus",
+      "abbr": "Chrs",
+      "type": "cc",
+      "nr1": 32,
+      "minimum": 0,
+      "maximum": 3,
+      "default_value": 0
+    }
+  ]
+}

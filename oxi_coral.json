@@ -1,0 +1,252 @@
+{
+    "id": "oxi_coral",
+    "name": "OXI Coral",
+    "manufacturer": "OXI Instruments",
+    "abbr": "Corl",
+    "parameters": [
+      {
+        "name": "Cutoff",
+        "abbr": "Cut",
+        "type": "cc",
+        "nr1": 1,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Resonance",
+        "abbr": "Res",
+        "type": "cc",
+        "nr1": 2,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Filter Envelope Mod",
+        "abbr": "FEnv",
+        "type": "cc",
+        "nr1": 3,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Level",
+        "abbr": "Lvl",
+        "type": "cc",
+        "nr1": 4,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Pan",
+        "abbr": "Pan",
+        "type": "cc",
+        "nr1": 5,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Octave",
+        "abbr": "Octave",
+        "type": "cc",
+        "nr1": 6,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Glide",
+        "abbr": "Glide",
+        "type": "cc",
+        "nr1": 7,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Glide Mode",
+        "abbr": "GMde",
+        "type": "cc",
+        "nr1": 8,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Harmonics",
+        "abbr": "Harm",
+        "type": "cc",
+        "nr1": 11,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Timbre",
+        "abbr": "Timb",
+        "type": "cc",
+        "nr1": 12,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Morph",
+        "abbr": "Mrph",
+        "type": "cc",
+        "nr1": 13,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Amp Attack",
+        "abbr": "Attk",
+        "type": "cc",
+        "nr1": 14,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Amp Decay",
+        "abbr": "Decy",
+        "type": "cc",
+        "nr1": 15,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Mod Attack",
+        "abbr": "MAtt",
+        "type": "cc",
+        "nr1": 16,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Mod Decay",
+        "abbr": "Mdec",
+        "type": "cc",
+        "nr1": 17,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Sustain",
+        "abbr": "Sust",
+        "type": "cc",
+        "nr1": 18,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Noise",
+        "abbr": "Nois",
+        "type": "cc",
+        "nr1": 19,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Chorus",
+        "abbr": "Chor",
+        "type": "cc",
+        "nr1": 25,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Space",
+        "abbr": "Spac",
+        "type": "cc",
+        "nr1": 26,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Delay",
+        "abbr": "Dely",
+        "type": "cc",
+        "nr1": 27,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Engine",
+        "abbr": "Engn",
+        "type": "cc",
+        "nr1": 30,
+        "minimum": 0,
+        "maximum": 7,
+        "default_value": 0
+      },
+      {
+        "name": "Space Length",
+        "abbr": "SpLn",
+        "type": "cc",
+        "nr1": 40,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Space Lowpass",
+        "abbr": "SpLp",
+        "type": "cc",
+        "nr1": 41,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Delay Time",
+        "abbr": "dlTm",
+        "type": "cc",
+        "nr1": 44,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Delay Feedback",
+        "abbr": "DlFb",
+        "type": "cc",
+        "nr1": 45,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Delay Spread",
+        "abbr": "DlSp",
+        "type": "cc",
+        "nr1": 46,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      },
+      {
+        "name": "Delay Lowpass",
+        "abbr": "DlLp",
+        "type": "cc",
+        "nr1": 47,
+        "minimum": 0,
+        "maximum": 127,
+        "default_value": 0
+      }
+    ]
+  }
+  

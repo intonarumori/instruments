@@ -1,0 +1,318 @@
+{
+  "id": "moog_voyager",
+  "name": "Moog Voyager",
+  "manufacturer": "Moog",
+  "abbr": "Voyager",
+  "parameters": [
+    {
+      "name": "Modulation",
+      "abbr": "Mod",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 33,
+      "nr2": 1
+    },
+    {
+      "name": "Mod 1 Input",
+      "abbr": "Mod1",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 34,
+      "nr2": 2
+    },
+    {
+      "name": "LFO Rate",
+      "abbr": "LFOR",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 35,
+      "nr2": 3
+    },
+    {
+      "name": "Mod 2 Input",
+      "abbr": "Mod2",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 36,
+      "nr2": 4
+    },
+    {
+      "name": "Glide Rate",
+      "abbr": "Glid",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 37,
+      "nr2": 5
+    },
+    {
+      "name": "Mod-Wheel Amount",
+      "abbr": "ModW",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 38,
+      "nr2": 6
+    },
+    {
+      "name": "Master Volume",
+      "abbr": "MVol",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 39,
+      "nr2": 7
+    },
+    {
+      "name": "Pedal Amount",
+      "abbr": "PedA",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 40,
+      "nr2": 8
+    },
+    {
+      "name": "OSC 1 Waveform",
+      "abbr": "O1WF",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 41,
+      "nr2": 9
+    },
+    {
+      "name": "OSC 2 Frequency",
+      "abbr": "O2Fr",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 42,
+      "nr2": 10
+    },
+    {
+      "name": "OSC 2 Waveform",
+      "abbr": "O2WF",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 43,
+      "nr2": 11
+    },
+    {
+      "name": "OSC 3 Frequency",
+      "abbr": "O3Fr",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 44,
+      "nr2": 12
+    },
+    {
+      "name": "OSC 3 Waveform",
+      "abbr": "O3WF",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 45,
+      "nr2": 13
+    },
+    {
+      "name": "External Audio",
+      "abbr": "ExtA",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 46,
+      "nr2": 14
+    },
+    {
+      "name": "OSC 1 Level",
+      "abbr": "O1Lv",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 47,
+      "nr2": 15
+    },
+    {
+      "name": "OSC 2 Level",
+      "abbr": "O2Lv",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 48,
+      "nr2": 16
+    },
+    {
+      "name": "OSC 3 Level",
+      "abbr": "O3Lv",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 49,
+      "nr2": 17
+    },
+    {
+      "name": "Noise Level",
+      "abbr": "NoLv",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 50,
+      "nr2": 18
+    },
+    {
+      "name": "Filter Cutoff",
+      "abbr": "FCut",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 51,
+      "nr2": 19
+    },
+    {
+      "name": "Filter Spacing",
+      "abbr": "FSpc",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 52,
+      "nr2": 20
+    },
+    {
+      "name": "Filter Resonance",
+      "abbr": "FRes",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 53,
+      "nr2": 21
+    },
+    {
+      "name": "Filter Keyboard Amount",
+      "abbr": "FKey",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 54,
+      "nr2": 22
+    },
+    {
+      "name": "Filter Envelope Attack",
+      "abbr": "FAtt",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 55,
+      "nr2": 23
+    },
+    {
+      "name": "Filter Envelope Decay",
+      "abbr": "FDec",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 56,
+      "nr2": 24
+    },
+    {
+      "name": "Filter Envelope Sustain",
+      "abbr": "FSus",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 57,
+      "nr2": 25
+    },
+    {
+      "name": "Filter Envelope Release",
+      "abbr": "FRel",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 58,
+      "nr2": 26
+    },
+    {
+      "name": "Filter Envelope Amount",
+      "abbr": "FAmt",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 59,
+      "nr2": 27
+    },
+    {
+      "name": "Volume Envelope Attack",
+      "abbr": "VAtt",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 60,
+      "nr2": 28
+    },
+    {
+      "name": "Volume Envelope Decay",
+      "abbr": "VDec",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 61,
+      "nr2": 29
+    },
+    {
+      "name": "Volume Envelope Sustain",
+      "abbr": "VSus",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 62,
+      "nr2": 30
+    },
+    {
+      "name": "Volume Envelope Release",
+      "abbr": "VRel",
+      "minimum": 0,
+      "maximum": 16383,
+      "default_value": 0,
+      "type": "cc14",
+      "nr1": 63,
+      "nr2": 31
+    }
+  ]
+}
