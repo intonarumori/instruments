@@ -440,5 +440,5 @@
       "type": "script"
     }
   ],
-  "script": "local out = 0\nlocal roland_id = 0x41\nlocal tone_ipr = 0x36\nlocal channel = 3\nlocal format = 0x23\nlocal level = 0x20\nlocal group = 0x01\n\nlocal sysex_message = {\n\t0xF0, roland_id, tone_ipr, channel, format, level, group, 0x0, 0x0, 0xF7 \n}\n\nfunction sendSysex(parameter, value)\n\tlocal data = sysex_message\n\tdata[8] = parameter\n\tdata[9] = value\n\tmidi.sendSysex(out, data)\nend\n\nfunction controller.onEncoderTurn(index, value)\n    sendSysex(10, value)\nend"
+  "script": "local out = 0\nlocal roland_id = 0x41\nlocal tone_ipr = 0x36\nlocal channel = 3\nlocal format = 0x23\nlocal level = 0x20\nlocal group = 0x01\n\nlocal sysex_message = {\n\t0xF0, roland_id, tone_ipr, channel, format, level, group, 0x0, 0x0, 0xF7 \n}\n\nfunction sendSysex(parameter, value)\n\tlocal data = sysex_message\n\tdata[8] = parameter\n\tdata[9] = value\n\tmidi.sendSysex(out, data)\nend\n\nfunction controller.onEncoderTurn(parameter, value)\n    sendSysex(parameter, value)\nend"
 }
