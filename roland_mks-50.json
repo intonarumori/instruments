@@ -10,8 +10,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 3,
+      "nr1": 3,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -20,8 +20,8 @@
       "minimum": 0,
       "maximum": 5,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 4,
+      "nr1": 4,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -30,8 +30,8 @@
       "minimum": 0,
       "maximum": 5,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 5,
+      "nr1": 5,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -40,8 +40,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 7,
+      "nr1": 7,
+      "nr2": 0,
       "type": "script"
     },
 
@@ -51,8 +51,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 6,
+      "nr1": 6,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -71,8 +71,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 15,
+      "nr1": 15,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -81,8 +81,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 8,
+      "nr1": 8,
+      "nr2": 0,
       "type": "script"
     },
 
@@ -92,8 +92,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 11,
+      "nr1": 11,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -102,8 +102,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 12,
+      "nr1": 12,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -112,8 +112,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 14,
+      "nr1": 14,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -122,8 +122,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 13,
+      "nr1": 13,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -132,8 +132,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 25,
+      "nr1": 25,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -142,8 +142,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 24,
+      "nr1": 24,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -152,8 +152,8 @@
       "minimum": 0,
       "maximum": 1,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 10,
+      "nr1": 10,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -162,8 +162,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 30,
-      "nr1": 0,
-      "nr2": 34,
+      "nr1": 34,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -172,8 +172,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 26,
+      "nr1": 26,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -182,8 +182,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 28,
+      "nr1": 28,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -192,8 +192,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 30,
+      "nr1": 30,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -202,8 +202,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 32,
+      "nr1": 32,
+      "nr2": 0,
       "type": "script"
     },
 
@@ -213,8 +213,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 27,
+      "nr1": 27,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -223,8 +223,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 29,
+      "nr1": 29,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -233,8 +233,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 31,
+      "nr1": 31,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -243,8 +243,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 33,
+      "nr1": 33,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -253,8 +253,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 16,
+      "nr1": 16,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -263,8 +263,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 17,
+      "nr1": 17,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -273,8 +273,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 9,
+      "nr1": 9,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -283,8 +283,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 1,
+      "nr1": 1,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -293,8 +293,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 18,
+      "nr1": 18,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -303,8 +303,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 19,
+      "nr1": 19,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -313,8 +313,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 20,
+      "nr1": 20,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -323,8 +323,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 21,
+      "nr1": 21,
+      "nr2": 0,
       "type": "script"
     },
 
@@ -334,8 +334,8 @@
       "minimum": 0,
       "maximum": 12,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 6,
+      "nr1": 6,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -344,8 +344,8 @@
       "minimum": 0,
       "maximum": 12,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 8,
+      "nr1": 8,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -354,8 +354,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 127,
-      "nr1": 1,
-      "nr2": 7,
+      "nr1": 7,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -364,8 +364,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 23,
+      "nr1": 23,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -374,8 +374,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 2,
+      "nr1": 2,
+      "nr2": 0,
       "type": "script"
     },
     {
@@ -384,8 +384,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 12,
+      "nr1": 12,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -394,8 +394,8 @@
       "minimum": 0,
       "maximum": 12,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 35,
+      "nr1": 35,
+      "nr2": 0,
       "type": "script"
     },
 
@@ -405,8 +405,8 @@
       "minimum": 0,
       "maximum": 1,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 4,
+      "nr1": 4,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -415,8 +415,8 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 3,
+      "nr1": 3,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -425,8 +425,8 @@
       "minimum": 0,
       "maximum": 3,
       "default_value": 0,
-      "nr1": 1,
-      "nr2": 11,
+      "nr1": 11,
+      "nr2": 1,
       "type": "script"
     },
     {
@@ -435,9 +435,10 @@
       "minimum": 0,
       "maximum": 127,
       "default_value": 0,
-      "nr1": 0,
-      "nr2": 23,
+      "nr1": 23,
+      "nr2": 0,
       "type": "script"
     }
-  ]
+  ],
+  "script": "local out = 0\nlocal roland_id = 0x41\nlocal tone_ipr = 0x36\nlocal channel = 3\nlocal format = 0x23\nlocal level = 0x20\nlocal group = 0x01\n\nlocal sysex_message = {\n\t0xF0, roland_id, tone_ipr, channel, format, level, group, 0x0, 0x0, 0xF7 \n}\n\nfunction sendSysex(parameter, value)\n\tlocal data = sysex_message\n\tdata[8] = parameter\n\tdata[9] = value\n\tmidi.sendSysex(out, data)\nend\n\nfunction controller.onEncoderTurn(index, value)\n    sendSysex(10, value)\nend"
 }
